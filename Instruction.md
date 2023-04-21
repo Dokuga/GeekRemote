@@ -49,5 +49,5 @@ git branch -d <say_my_name> - удаление ненужной ветки
 
 ! [Sith] (Sith.jpg)
 
-
+Финита
 
