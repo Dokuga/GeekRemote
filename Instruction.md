@@ -57,5 +57,7 @@ git branch -d <say_my_name> - удаление ненужной ветки
 ## 16. Создать удаленный репозиторий
 ## 17. Связять локальный репозиторий и удаленный репозиторий
 git remote add origin https://github.com/Dokuga/GeekRemote.git
+
 git branch -M main
+
 git push -u origin main
