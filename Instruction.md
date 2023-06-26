@@ -61,3 +61,6 @@ git remote add origin https://github.com/Dokuga/GeekRemote.git
 git branch -M main
 
 git push -u origin main
+
+Дополнить файл с инструкцией по работе с git (второе домашнее задание) информацией о работе с удаленными репозиториями и направить pull request с инструкцией в репозиторий SCV_Git_PR
+В системе подгрузить скриншот отправленного pull request.
